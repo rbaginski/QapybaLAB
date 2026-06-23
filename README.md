@@ -2,7 +2,7 @@ The QapybaLAB project consists of computational tools to support Physics teachin
 
 **LAB TOOLS**: 3 computational tools to support experimental data analysis in physical sciences undergraduate lab classes, including statistical analysis, uncertainties propagation, and curve fitting;
 
-**NEWTON TOOLS**: a graphical tool to analyse 1D kinematics. 
+**NEWTON TOOLS**: a graphical tool to analyse 1D kinematics and a tool to compute force resultants in 2D.
 
 Each Jupyter notebook consists of a text cell, which briefly explains how the tool works, and a code cell that, when executed, provides access to a simplified graphical interface for using the tool's features.
 
