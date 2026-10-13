@@ -6,6 +6,8 @@ The QapybaLAB project consists of computational tools to support Physics teachin
 
 **CARNOT TOOLS**: a computational tool to convert between different temperature scales.
 
+**MAXWELL TOOLS**: a computational tool to convert between the several unit systems commonly used in electromagnetism.
+
 Each Jupyter notebook consists of a text cell, which briefly explains how the tool works, and a code cell that, when executed, provides access to a simplified graphical interface for using the tool's features.
 
 The Jupyter notebooks were developed to work in Google Colab without the need to install additional packages.
