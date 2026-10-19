@@ -1,8 +1,8 @@
 The QapybaLAB project consists of computational tools to support Physics teaching and learning. Currently, the project is comprised of:
 
-**LAB TOOLS**: 5 computational tools to support experimental data analysis in physical sciences undergraduate lab classes, including statistical analysis, uncertainties propagation, curve fitting, data interpolation and smoothing, and spectral analysis;
+**LAB TOOLS**: 6 computational tools to support experimental data analysis in physical sciences lab classes, including statistical analysis, uncertainties propagation, curve fitting, data interpolation, data smoothing, spectral analysis, and MOSFET electrical parameters extraction;
 
-**NEWTON TOOLS**: a computational tool to analyse 1D kinematics, a tool to compute force resultants in 2D, a tool to simulate 3D particle dynamics (given the force and the initial conditions), a tool to simulate 3D particle dynamics with conservative forces (given the potential energy and the initial conditions), and a tool to simulate particle dynamics with central forces.
+**NEWTON TOOLS**: 5 computational tools to analyse 1D kinematics, compute force resultants in 2D, simulate 3D particle dynamics (given the force and the initial conditions), simulate 3D particle dynamics with conservative forces (given the potential energy and the initial conditions), and simulate particle dynamics with central forces.
 
 **CARNOT TOOLS**: a computational tool to convert between different temperature scales.
 
