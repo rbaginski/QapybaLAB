@@ -1,4 +1,4 @@
-The LAB TOOLS project consists of computational tools to support experimental data analysis in physical sciences undergraduate lab classes, including statistical analysis, uncertainties propagation, curve fitting, data interpolation and smoothing, and spectral analysis.
+The LAB TOOLS project consists of computational tools to support experimental data analysis in physical sciences undergraduate lab classes, including statistical analysis, uncertainties propagation, curve fitting, data interpolation, data smoothing, spectral analysis, and MOSFET electrical parameters extraction.
 
 Each Jupyter notebook consists of a text cell, which briefly explains how the tool works, and a code cell that, when executed, provides access to a simplified graphical interface for using the tool's features.
 
